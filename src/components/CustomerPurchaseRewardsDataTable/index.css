@@ -1,0 +1,11 @@
+table,
+th,
+td {
+  width: 75%;
+  border: 1px solid;
+  text-align: center;
+}
+
+th {
+  min-width: 10em;
+}
